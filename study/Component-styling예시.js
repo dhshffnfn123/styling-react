@@ -15,5 +15,5 @@ const MyInput = styled('input')`
 
 // 아예 컴포넌트 형시의 값을 넣어 줌
 const StyledLink = styled(link)`
-    color: blue;
+    color: blue; 
 `
